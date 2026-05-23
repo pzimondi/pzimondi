@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pastormunashezimondi">
+  <a href="https://www.linkedin.com/in/pastor-munashe-zimondi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:zimondimunashe@hotmail.com">
@@ -101,7 +101,7 @@ Creative and technically skilled IT professional with **7+ years of experience**
 ## 🤝 Let's Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/pastormunashezimondi">
+  <a href="https://www.linkedin.com/in/pastor-munashe-zimondi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:zimondimunashe@hotmail.com">
